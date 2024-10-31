@@ -14,7 +14,7 @@ I am a Software Engineer, graduated from Universidad de Santo Tomas. The program
 - Outside the tech world, 🏀 I love playing basketball, 🎸 playing the guitar, 🚴🏻 riding my bike, and 🏃🏻‍♂ hiking.
 - 📫 Reach out to me at: <a href="erwin.gerdes19@gmail.com">erwin.gerdes19@gmail.com</a>
 
-## My Skills Includ
+## My Skills Include
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
